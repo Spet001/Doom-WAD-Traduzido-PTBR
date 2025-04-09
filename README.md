@@ -3,6 +3,8 @@
 
 Este projeto é uma tradução completa da interface e elementos textuais do jogo *Doom* original para o português brasileiro, realizada diretamente no arquivo WAD original. A intenção é manter a estética clássica do jogo enquanto adapta a experiência para falantes nativos de português.
 
+Mod disponível também diretamente da aba "mods" da re-release DOOM DOOMII na kex engine , procure por "Doom em PT".
+
 ## 📦 Sobre o Projeto
 
 Esta tradução modifica diretamente os gráficos e textos embutidos no WAD original, garantindo uma experiência localizada sem alterar a jogabilidade clássica do Doom. O projeto inclui traduções para:
